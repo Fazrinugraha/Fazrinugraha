@@ -1,122 +1,261 @@
-<!-- 🌊 Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Fazri%20Nugraha&fontSize=36&fontColor=ffffff" />
-</p>
-
-<h1 align="center">🛡️ Cybersecurity Specialist in Training | Mobile App Pentester | Python Automator</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fazri-nugraha-5b5685249/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:fazrinugraha579@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=fazrinugraha579&style=for-the-badge&label=Visitors" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-> "_Security is not a luxury – it's an embedded culture._"
-
-I'm **Fazri Nugraha**, a passionate cybersecurity student from **Politeknik Negeri Bengkalis**, specializing in **Information Systems Security (D4)**. I focus on **mobile app pentesting**, **reverse engineering**, and **security automation** with Python.
-
-🔎 **Fields of Interest**  
-- Android App Reverse Engineering  
-- Static & Dynamic APK Analysis (MobSF, Frida, ADB)  
-- Threat Modeling, Recon, and Offensive Security  
-- Python Tooling for Automation & Intelligence Gathering  
-
----
-
-## 🧪 Featured Projects
-
-| 🔎 Project | 🧩 Description |
-|-----------|----------------|
-| [🔐 MobSF Automation](https://github.com/fazrinugraha579/mobsf-automation) | Automates APK analysis using MobSF REST API + Python |
-| [🧰 Android Pentest Lab](https://github.com/fazrinugraha579/pentest-lab-android) | Set up with Genymotion, Burp Suite, ADB, Frida |
-| [🎯 Mobile Recon Toolkit](https://github.com/fazrinugraha579/mobile-recon) | Tools for domain/IP reconnaissance, network sniffing |
-| [💣 Payload Playground](https://github.com/fazrinugraha579/payload-playground) | Personal lab for XSS, SQLi, and input-based testing |
-
----
-
-## 🧰 Tools & Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,vscode,github" /><br><br>
-  <img src="https://img.shields.io/badge/-MobSF-2E86C1?style=flat-square&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/-Frida-333?style=flat-square">
-  <img src="https://img.shields.io/badge/-Burp_Suite-F57900?style=flat-square">
-  <img src="https://img.shields.io/badge/-Wireshark-164D94?style=flat-square">
-  <img src="https://img.shields.io/badge/-Nmap-000?style=flat-square">
-  <img src="https://img.shields.io/badge/-ADB-222?style=flat-square&logo=android">
+
+```
+    ████████╗██╗  ██╗███████╗    ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗ 
+    ╚══██╔══╝██║  ██║██╔════╝    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+       ██║   ███████║█████╗      ███████║███████║██║     █████╔╝ █████╗  ██████╔╝
+       ██║   ██╔══██║██╔══╝      ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+       ██║   ██║  ██║███████╗    ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
+       ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+                                                                                   
+    ███████╗ █████╗ ███████╗██████╗ ██╗    ███╗   ██╗██╗   ██╗ ██████╗ ██████╗  █████╗ ██╗  ██╗ █████╗ 
+    ██╔════╝██╔══██╗╚══███╔╝██╔══██╗██║    ████╗  ██║██║   ██║██╔════╝ ██╔══██╗██╔══██╗██║  ██║██╔══██╗
+    █████╗  ███████║  ███╔╝ ██████╔╝██║    ██╔██╗ ██║██║   ██║██║  ███╗██████╔╝███████║███████║███████║
+    ██╔══╝  ██╔══██║ ███╔╝  ██╔══██╗██║    ██║╚██╗██║██║   ██║██║   ██║██╔══██╗██╔══██║██╔══██║██╔══██║
+    ██║     ██║  ██║███████╗██║  ██║██║    ██║ ╚████║╚██████╔╝╚██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║
+    ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+![Matrix Rain GIF](https://i.imgur.com/dBaSKWF.gif)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00FF41&background=000000FF&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+INITIALIZATION...+%5D;%5B+ACCESS+GRANTED+%5D;%5B+WELCOME+TO+THE+MATRIX+%5D;Cybersecurity+Specialist+%7C+Mobile+Pentester;Python+Automator+%7C+Ethical+Hacker+%E2%9A%A1;%5B+CONNECTION+SECURE+%5D)
+
 </div>
 
 ---
 
-## 📚 Education
+<div align="center">
 
-🎓 **Politeknik Negeri Bengkalis**  
-D-IV Rekayasa Keamanan Sistem Informasi  
-📅 *2022 – Present*
+```bash
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                           [SYSTEM STATUS: ONLINE]                           │
+│                         [SECURITY LEVEL: MAXIMUM]                           │
+│                        [THREAT DETECTION: ACTIVE]                           │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
-Focus: Cryptography, Secure Networks, Penetration Testing, Digital Forensics
+</div>
 
----
+## `root@polbeng:~#` **WHOAMI**
 
-## 📜 Certifications
+<div align="center">
 
-| Sertifikat | Penerbit |
-|-----------|----------|
-| 🛡️ **Network Security** | Cisco Networking Academy |
-| 🔐 **Intro to Cybersecurity** | Cisco |
-| 🚨 **Cyber Threat Management** | Cisco |
-| 🧠 **Cybersecurity Essentials** | Cisco |
-| 🌐 **Intro to Networks** | Cisco |
-| 🖧 **Jaringan Komputer Dasar** | Kemendikbud RI |
+```terminal
+┌─[fazri@kali]─[~/profile]
+└──╼ $ cat user_profile.txt
 
----
+████████████████████████████████████████████████████████
+█                                                      █
+█  NAME:      Fazri Nugraha                           █
+█  LOCATION:  Politeknik Negeri Bengkalis             █
+█  ROLE:      Cybersecurity Student | Pentester       █
+█  DEGREE:    D-IV Information Systems Security       █
+█  SPECIALTY: Mobile App Security & Reverse Eng       █
+█  STATUS:    [LEARNING_MODE_ENABLED] ⚡               █
+█                                                      █
+████████████████████████████████████████████████████████
+```
 
-## 📈 Metrics Dashboard
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fazrinugraha579/fazrinugraha579/main/github-metrics.svg" width="90%" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fazrinugraha579&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazrinugraha579&theme=radical" width="48%" />
-</p>
+</div>
 
 ---
 
-## 🌐 Contact Me
+## 🔥 **[SKILL TREE UNLOCKED]**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fazri-nugraha-5b5685249/">
-    <img src="https://img.shields.io/badge/LinkedIn-Fazri%20Nugraha-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:fazrinugraha579@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-fazrinugraha579@gmail.com-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+<div align="center">
+
+### **💻 Programming Arsenal**
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF41&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41&labelColor=000000)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00FF41&labelColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FF41&labelColor=000000)
+
+### **🛡️ Security Tools**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=00FF41&labelColor=000000)
+![MobSF](https://img.shields.io/badge/MobSF-000000?style=for-the-badge&logo=android&logoColor=00FF41&labelColor=000000)
+![Frida](https://img.shields.io/badge/Frida-000000?style=for-the-badge&logo=frida&logoColor=00FF41&labelColor=000000)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=portswigger&logoColor=00FF41&labelColor=000000)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41&labelColor=000000)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF41&labelColor=000000)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41&labelColor=000000)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=00FF41&labelColor=000000)
+
+### **⚙️ Development Environment**
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FF41&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41&labelColor=000000)
+![VMware](https://img.shields.io/badge/VMware-000000?style=for-the-badge&logo=vmware&logoColor=00FF41&labelColor=000000)
+
+</div>
 
 ---
 
-## ✨ Fun Fact
+## ⚡ **[EXPLOIT REPOSITORY]**
 
-> I once used `Frida` to intercept and alter a login request on an Android app…  
-> Not to break it — but to learn how insecure some backends can be.
+<div align="center">
+
+```bash
+fazri@kali:~/exploits$ ls -la --color=always
+```
+
+</div>
+
+| 🎯 **Target** | 📁 **Repository** | 🔧 **Exploit Type** | ⭐ **Threat Level** |
+|:-------------:|:------------------|:---------------------|:-------------------:|
+| 📱 | **[MobSF-Automation](https://github.com/fazrinugraha579/mobsf-automation)** | `Automated APK Analysis & Vulnerability Scanner` | 🔴 **HIGH** |
+| 🛡️ | **[Android-Pentest-Lab](https://github.com/fazrinugraha579/pentest-lab-android)** | `Complete Mobile Security Testing Environment` | 🟠 **MEDIUM** |
+| 🕵️ | **[Mobile-Recon-Toolkit](https://github.com/fazrinugraha579/mobile-recon)** | `OSINT & Network Intelligence Gathering` | 🟡 **LOW-MED** |
+| 💉 | **[Payload-Playground](https://github.com/fazrinugraha579/payload-playground)** | `XSS, SQLi & Input Validation Testing Lab` | 🔴 **HIGH** |
+| 🎯 | **[Web-Security-Scanner](https://github.com/fazrinugraha579/web-scanner)** | `Custom Python Web Vulnerability Scanner` | 🟠 **MEDIUM** |
 
 ---
 
-<!-- 🌊 Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-</p>
+## 📊 **[SYSTEM ANALYTICS]**
+
+<div align="center">
+
+```bash
+┌─[root@matrix]─[/home/fazri/stats]
+└──╼ $ ./generate_stats.sh --theme=hacker --user=fazrinugraha579
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=fazrinugraha579&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41&border_radius=15" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fazrinugraha579&theme=black-ice&background=000000&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41&sideNums=ffffff&currStreakNum=00ff41&dates=ffffff&sideLabels=ffffff&border=00ff41" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazrinugraha579&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00ff41&text_color=ffffff&border_color=00ff41&border_radius=15" width="50%" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fazrinugraha579&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=false&border_color=00ff41)
+
+</div>
+
+---
+
+## 🏆 **[ACHIEVEMENTS UNLOCKED]**
+
+<div align="center">
+
+```bash
+fazri@kali:~$ cat /etc/certificates.conf
+```
+
+| 🎖️ **Certificate** | 🏢 **Authority** | 📅 **Status** | 🔐 **Verification** |
+|:------------------|:----------------|:--------------|:-------------------:|
+| 🛡️ **Network Security** | Cisco Networking Academy | `ACTIVE` | ✅ `VERIFIED` |
+| 🔐 **Intro to Cybersecurity** | Cisco | `ACTIVE` | ✅ `VERIFIED` |
+| 🚨 **Cyber Threat Management** | Cisco | `ACTIVE` | ✅ `VERIFIED` |
+| 🧠 **Cybersecurity Essentials** | Cisco | `ACTIVE` | ✅ `VERIFIED` |
+| 🌐 **Introduction to Networks** | Cisco | `ACTIVE` | ✅ `VERIFIED` |
+| 🖧 **Jaringan Komputer Dasar** | Kemendikbud RI | `ACTIVE` | ✅ `VERIFIED` |
+
+</div>
+
+---
+
+## 🎭 **[HACKER MINDSET]**
+
+<div align="center">
+
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+class EthicalHacker:
+    def __init__(self):
+        self.name = "Fazri Nugraha"
+        self.alias = "The Mobile Security Specialist"
+        self.motto = "Break it to secure it"
+        self.ethics = ["White Hat", "Responsible Disclosure", "Educational Purpose"]
+        
+    def daily_activities(self):
+        schedule = {
+            "09:00": "☕ Coffee + Latest CVE Analysis",
+            "10:00": "📱 Mobile App Reverse Engineering",
+            "12:00": "🍜 Lunch Break (Still thinking about exploits)",
+            "13:00": "🐍 Python Security Tool Development",
+            "15:00": "📚 Cybersecurity Research & Learning",
+            "17:00": "🤝 Contributing to Security Community",
+            "19:00": "🎯 Personal Pentest Projects"
+        }
+        return schedule
+    
+    def current_mission(self):
+        objectives = [
+            "🔍 Discover mobile app vulnerabilities",
+            "⚡ Automate security testing processes", 
+            "📖 Share knowledge with security community",
+            "🛡️ Make digital world more secure"
+        ]
+        return {"status": "IN_PROGRESS", "objectives": objectives}
+    
+    def get_quote(self):
+        return """
+        ╭────────────────────────────────────────────────────────╮
+        │  "I once used Frida to intercept and alter a login    │
+        │   request on an Android app... Not to break it —      │
+        │   but to learn how insecure some backends can be."    │
+        │                                        - Fazri, 2024  │
+        ╰────────────────────────────────────────────────────────╯
+        """
+
+# Initialize hacker instance
+hacker = EthicalHacker()
+print(hacker.get_quote())
+```
+
+</div>
+
+---
+
+## 📡 **[ESTABLISH CONNECTION]**
+
+<div align="center">
+
+```bash
+┌─[fazri@terminal]─[~/contact]
+└──╼ $ ./connect.sh --secure-channel
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://www.linkedin.com/in/fazri-nugraha-5b5685249/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=00FF41&labelColor=000000)](mailto:fazrinugraha579@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/fazrinugraha579)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00FF41&labelColor=000000)](#)
+
+</div>
+
+---
+
+## 🔒 **[SECURITY FOOTER]**
+
+<div align="center">
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=fazrinugraha579&style=for-the-badge&color=00ff41&label=VISITORS+TRACKED&labelColor=000000)
+
+```bash
+┌──────────────────────────────────────────────────────────────────────┐
+│                        [CONNECTION ESTABLISHED]                     │
+│                     [ENCRYPTION: AES-256 ENABLED]                   │
+│                    [FIREWALL STATUS: FULLY ARMED]                   │
+│                      [INTRUSION DETECTION: ON]                      │
+│                                                                      │
+│  ╔═══════════════════════════════════════════════════════════════╗  │
+│  ║                    HACK THE PLANET                           ║  │
+│  ║                 BUT DO IT ETHICALLY ⚡                       ║  │
+│  ╚═══════════════════════════════════════════════════════════════╝  │
+│                                                                      │
+│              Last Updated: $(date +"%Y-%m-%d %H:%M:%S")              │
+│              Security Level: MAXIMUM                                 │
+│              Access Level: PUBLIC                                    │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+**🚀 "The best way to defend is to understand how to attack"**
+
+```
+[END TRANSMISSION]
+[CONNECTION TERMINATED]
+[LOGGING OUT...]
+```
+
+</div>
